@@ -20,7 +20,7 @@
 
 LOG="/workspace/setup.log"
 SETUP_DIR="/workspace/setup"
-BASE_URL="${SETUP_BASE_URL:-https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/vast-comfyui-setup/main}"
+BASE_URL="${SETUP_BASE_URL:-https://raw.githubusercontent.com/dyper-buht-eng/vast-comfyui-setup/main}"
 
 mkdir -p "$SETUP_DIR"
 touch "$LOG"
